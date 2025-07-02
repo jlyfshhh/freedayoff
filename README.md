@@ -1,12 +1,12 @@
 # Free Day Off
 
-A simple, cross-platform Python CLI tool that tells you the **next US federal holiday** that falls on a **Monday–Friday work week**, and how many days away it is.
+A simple, cross-platform Python CLI tool that tells you the **next US federal holiday** that falls on a weekday, and how many days away it is.
 
 ---
 
 ## 📸 Features
 
-✅ Lists only federal holidays that actually fall on weekdays  
+✅ Lists only federal holidays that fall on weekdays (free day off!)  
 ✅ Always up-to-date for the current year  
 ✅ Supports macOS, Windows, and Linux  
 ✅ No internet needed, 100% offline  
